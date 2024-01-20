@@ -3,13 +3,13 @@ const chalk = require("chalk")
 
 global.available = true
 global.autoReadGc = true
-global.autoReadAll = false
-global.antitags = true
+global.autoReadAll = true
+global.antitags = false
 
 
-global.Owner = ['918373017400']
-global.OwnerNumber = ['918373017400']
-global.ownertag = ['918373017400']
+global.Owner = ['393459919082']
+global.OwnerNumber = ['393459919082']
+global.ownertag = ['393459919082']
 global.BotName = "𝑀𝒶𝓇𝒾𝓃-ᴋɪᴛᴀɢᴀᴡᴀ"
 global.packname = "𝑀𝒶𝓇𝒾𝓃-ʙᴏᴛ"
 global.author = "By: ᥴꫝꫀꪗ-𝙎𝙖𝙣💫🌙✨"
